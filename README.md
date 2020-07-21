@@ -58,6 +58,7 @@ location ~* \.(htm)$ {
 
 ## 下一步
 增加插件仓库，添加常用插件，重启社区计划。
+临时插件仓库：[插件主题中心](https://github.com/jiix/plugins)
 
 ## 贡献者
 创始人[axiuno](http://bbs.xiuno.com/)
