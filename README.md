@@ -31,6 +31,7 @@ Xiuno BBS 4.0 是一款轻论坛产品。
 
 ## 使用
 使用请下载发布版，集成较少插件。数据库请采用**utf8mb4**，安装完成后，请删除install目录。
+插件和主题，直接上传到**plugin**目录中，后台插件中心开启。
 
 ### 伪静态
 打开`/conf/conf.php`文件，把`  'url_rewrite_on' => 0,`改为`  'url_rewrite_on' => 1,`
